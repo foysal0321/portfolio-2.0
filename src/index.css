@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: 'Poppins';
+} 
+
+.custom-image {
+    background-image:
+    linear-gradient(to bottom, rgba(0,0,0,0.50), rgba(0,0,0,0.30)),
+    url('https://i.ibb.co/zGW54SX/Pics-Art-1673980440093.jpg');
+    ackground-position: center;
+    ackground-repeat: no-repeat;
+    ackground-size: cover;
+}
+/*  https://i.ibb.co/pRN4JX1/faysal5.jpg*/
