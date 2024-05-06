@@ -21,13 +21,26 @@ export const projectsData = [
     image: "https://boroktimes.com/storage/2023/02/iStock-474306176.jpeg",
     description1:
       "Students can see our campus img and activity in gallery and event section",
-    description2:
-      "",
-    technology:
-      "TypeScript,Next Js,React,tailwind,Node Js,Firebase Auth",
+    description2: "",
+    technology: "TypeScript,Next Js,React,tailwind,Node Js,Firebase Auth",
     liveLink: "https://university-qeducato.vercel.app/",
     serverLink: "",
     clientLink: "https://github.com/foysal0321/university-qeducato",
+  },
+  {
+    name: "Disaster Relief",
+    title:
+      "The website is created for Distribution of Donations Management Platform,",
+    image:
+      "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/525/480/datas/original.png",
+    description1:
+      "First of all a user has to sign up then user can create/update/ delete Relief Item.",
+    description2:
+      "User can donate and give feedback if they want and become a volunteer",
+    technology: "Next Js, Redux, tailwind css, Node, Express, mongodb",
+    liveLink: "https://melodic-begonia-7e14f0.netlify.app/",
+    serverLink: "https://github.com/foysal0321/relief-management-backend",
+    clientLink: "https://github.com/foysal0321/relief-management",
   },
   {
     name: "MoneyRecon",
@@ -43,20 +56,5 @@ export const projectsData = [
     liveLink: "https://frolicking-kulfi-eac66d.netlify.app/",
     serverLink: "https://github.com/foysal0321/budget-tracker-server",
     clientLink: "https://github.com/foysal0321/budget-tracker",
-  },
-  {
-    name: "Travel Tips",
-    title:
-      "The website is created for travel services review, and this is a travel related website",
-    image:
-      "https://i0.wp.com/bootstrap-top-design.com/wp-content/uploads/2021/01/tournest.jpg?resize=1024%2C887&ssl=1",
-    description1:
-      "First of all a user has to sign up then the user can see all the services of the website",
-    description2:
-      "The user can view and provide reviews of the services and he can delete his reviews",
-    technology: "React, tailwind, Node, Express, mongodb, Firebase Auth",
-    liveLink: "https://gregarious-semifreddo-22b463.netlify.app/",
-    serverLink: "https://github.com/foysal0321/adventor-travel-server",
-    clientLink: "https://github.com/foysal0321/adventor-travel-review",
   },
 ];
